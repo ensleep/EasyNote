@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ServiceStack.OrmLite.Sqlite32</id>
+    <version>4.0.22</version>
+    <title>OrmLite.Sqlite.32bit - Fast, code-first, config-free Poco ORM</title>
+    <authors>Service Stack</authors>
+    <owners>Service Stack</owners>
+    <licenseUrl>https://servicestack.net/terms</licenseUrl>
+    <projectUrl>https://github.com/ServiceStack/ServiceStack.OrmLite</projectUrl>
+    <iconUrl>https://servicestack.net/img/logo-32.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>This package is deprecated. 
+      Use the new ServiceStack.OrmLite.Sqlite.Windows NuGet package which supports both x86/x64 architectures.</description>
+    <copyright>ServiceStack 2013 and contributors</copyright>
+    <language>en-US</language>
+    <tags>Sqlite 32bit OrmLite POCO Code-First Orm Schema-less Blobs</tags>
+    <dependencies>
+      <dependency id="ServiceStack.OrmLite" version="4.0.22" />
+    </dependencies>
+  </metadata>
+</package>
